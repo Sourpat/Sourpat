@@ -37,7 +37,6 @@ Product Owner, Product Manager, or Business Analyst roles focused on AI driven, 
 ## Links
 - Portfolio: https://sourpat.github.io
 - LinkedIn: https://www.linkedin.com/in/your-handle
-- Resume: https://example.com/resume.pdf
 - Email: sourpat27@gmail.com
 
 Focused on building compliant, high growth platforms that earn trust and scale responsibly.
